@@ -168,4 +168,4 @@ sudo apt install libjsoncpp-dev jq cmake -y
 sudo ldconfig
 
 echo "move /usr/local/etc/ndn/nfd.conf "
-sudo cp cp /usr/local/etc/ndn/nfd.conf.sample /usr/local/etc/ndn/nfd.conf
+sudo cp /usr/local/etc/ndn/nfd.conf.sample /usr/local/etc/ndn/nfd.conf
